@@ -40,7 +40,9 @@
 .rounded {
     position: absolute;
     top: 30%;
-    margin-left: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     background-image: url(/images/jm.jpg);
     background-position: center;
     background-repeat: no-repeat;
