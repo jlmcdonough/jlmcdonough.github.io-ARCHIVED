@@ -21,18 +21,18 @@
 
 .links {
     list-style-type: none;
-    text-align: left;
+    text-align: center;
     margin: 0;
     padding: 0;
     color: White;
     z-index:1;
-    font-size:50px
+    font-size:20px
 }
 
 .links li {
     display: inline-block;
-    font-size: 50px;
-    padding: 25px 50px 75px 50px;
+    font-size: 30px;
+    padding: 10px 20px;
     color: White;
 }
 
