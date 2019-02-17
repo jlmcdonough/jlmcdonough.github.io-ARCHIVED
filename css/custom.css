@@ -24,7 +24,7 @@
     text-align: center;
     margin: 0;
     padding: 0;
-    color: white;
+    color: White;
     z-index:1;
     font-size:30px
 }
@@ -33,7 +33,7 @@
     display: inline-block;
     font-size: 20px;
     padding: 25px 50px 75px 50px;
-    color: white;
+    color: White;
 }
 
 .rounded {
