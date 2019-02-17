@@ -72,6 +72,7 @@
 .grow {
     display: inline-block;
     vertical-align: middle;
+    transform: translateZ(0);
     backface-visibility: hidden;
     -moz-osx-font-smoothing: grayscale;
     transition-duration: 0.1s;
