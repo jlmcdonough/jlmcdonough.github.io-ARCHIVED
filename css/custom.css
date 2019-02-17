@@ -1,3 +1,25 @@
+.header{
+    height:100%
+    background-color:rgb(140, 166, 217);
+}
+
+.header h1{
+    color:White;
+    font-family:Courier New; 
+    text-align:center;
+    position:relative;
+    z-index:1;
+}
+
+.header h4{
+    color:White;
+    font-family:Courier New; 
+    text-align:center;
+    position:relative;
+    z-index:1;
+}
+    
+
 .rounded {
     position: absolute;
     top: 30%;
