@@ -32,7 +32,8 @@
 .links li {
     display: inline-block;
     font-size: 20px;
-    padding: 10px;
+    padding: 25px 50px 75px 50px;
+    color: white;
 }
 
 .rounded {
