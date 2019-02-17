@@ -18,7 +18,22 @@
     position:relative;
     z-index:1;
 }
-    
+
+.links {
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    color: white;
+    z-index:1;
+    font-size:30px
+}
+
+.links li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 10px;
+}
 
 .rounded {
     position: absolute;
@@ -39,19 +54,6 @@
   margin-right: auto;
 }
 
-.nav {
-  list-style-type: none;
-  text-align: center;
-  margin: 0;
-  padding: 0;
-}
-
-.nav li {
-  display: inline-block;
-  font-size: 20px;
-  padding: 10px;
-  style="font-size:30px;color:white"
-}
 
 .grow {
     display: inline-block;
