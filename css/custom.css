@@ -20,6 +20,15 @@
     z-index:1;
 }
 
+.header h6{
+    color:White;
+    font-family:Courier New; 
+    font-size:50%;
+    text-align:center;
+    position:relative;
+    z-index:1;
+}
+
 .links {
     list-style-type: none;
     text-align: center;
