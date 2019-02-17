@@ -8,6 +8,7 @@
     font-family:Courier New; 
     text-align:center;
     position:relative;
+    padding-top:4em;
     z-index:1;
 }
 
@@ -24,7 +25,7 @@
     text-align: center;
     margin: 0;
     padding: 0;
-    color: White;
+    style = "color: White"
     z-index:1;
     font-size:20px
 }
@@ -33,7 +34,7 @@
     display: inline-block;
     font-size: 30px;
     padding: 10px 20px;
-    color: White;
+    style = "color: White"
 }
 
 .rounded {
