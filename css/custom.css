@@ -23,7 +23,7 @@
 .header h6{
     color:White;
     font-family:Courier New; 
-    font-size:50%;
+    font-size:80%;
     text-align:center;
     position:relative;
     z-index:1;
@@ -81,6 +81,4 @@
 
 .grow:hover,
 .grow:focus,
-.grow:active {
-    transform: scale(1.5);
-}
+.grow:active 
