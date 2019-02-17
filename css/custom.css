@@ -8,7 +8,7 @@
     font-family:Courier New; 
     text-align:center;
     position:relative;
-    padding-top:100px;
+    padding-top:15px;
     z-index:1;
 }
 
@@ -55,6 +55,7 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
+  border-radius: 20%;
 }
 
 
