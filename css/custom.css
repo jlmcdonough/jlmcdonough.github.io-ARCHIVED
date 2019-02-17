@@ -26,8 +26,8 @@
     text-align:center;
     position:relative;
     z-index:1;
-    font-size:110%;
-    line-height:50%;
+    font-size:80%;
+    line-height:.1;
 }
 
 .links {
