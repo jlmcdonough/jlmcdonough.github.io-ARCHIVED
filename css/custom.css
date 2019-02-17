@@ -8,7 +8,7 @@
     font-family:Courier New; 
     text-align:center;
     position:relative;
-    padding-top:10%;
+    padding-top:100px;
     z-index:1;
 }
 
@@ -45,7 +45,7 @@
     background-repeat: no-repeat;
     background-position: 50%;
     background-size: contain;
-    border-radius: 20%;
+    border-radius: 15%;
     width: 200px;
     height: 200px;
     transform: translate(-50%, -50%);
