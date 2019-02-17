@@ -38,7 +38,7 @@
 
 .rounded {
     position: absolute;
-    top: 30%;
+    top: 30px;
     left: 50%;
     background-image: url(/images/jm.jpg);
     background-position: center;
