@@ -37,11 +37,11 @@
 }
 
 .navbar li {
-  display: inline-lock;
+  float:left;
 }
 
 .navbar li a {
-  display: inline-lock;
+  display: inline-block;
   float: center;
   color: white;
   text-align: center;
