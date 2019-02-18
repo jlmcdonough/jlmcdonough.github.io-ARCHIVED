@@ -143,6 +143,7 @@ nav ul li p {
 	font-family:Courier New; 
 	background:rgb(249,249,249);
    	margin: 0 auto;
+	padding-top: 50px;
 	padding-bottom: 50px;
 }
 
@@ -157,11 +158,43 @@ nav ul li p {
 	font-family:Courier New; 
 	background:rgb(140, 166, 217);
    	margin: 0 auto;
+	padding-top: 50px;
 	padding-bottom: 50px;
 }
 
 #projects a {
 	background:rgb(140, 166, 217);
 }
+
+/* classes */
+#classes {
+	text-align: center;
+	color:black;
+	font-family:Courier New; 
+	background:rgb(249,249,249);
+   	margin: 0 auto;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+#classes a {
+	background:rgb(249,249,249);
+}
+
+/* work */
+#work {
+	text-align: center;
+	color:white;
+	font-family:Courier New; 
+	background:rgb(140, 166, 217);
+   	margin: 0 auto;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+#work a {
+	background:rgb(140, 166, 217);
+}
+
 
 
