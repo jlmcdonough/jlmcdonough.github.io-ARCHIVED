@@ -31,17 +31,17 @@
   overflow: hidden;
   background-color: rgb(140, 166, 217);
   color: rgb(249,249,249);
-  text-align: right;
+  text-align: center;
   position: fixed;
   top: 0;
 }
 
 .navbar li {
-  float: center;
+  float: left;
 }
 
 .navbar li a {
-  display: block;
+  display: inline-lock;
   float: center;
   color: white;
   text-align: center;
@@ -112,6 +112,8 @@
 /* about */
 #about {
     text-align: center;
+    margin-left:15%;
+    margin-right:15%;
     color:midnightblue;
     font-family:Courier New; 
     background:rgb(249,249,249);
