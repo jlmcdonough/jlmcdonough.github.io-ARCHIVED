@@ -197,6 +197,18 @@ nav ul li p {
 }
 
 /* Image Flip */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
 .flip {
 	background-color: transparent;
 	display: block;
