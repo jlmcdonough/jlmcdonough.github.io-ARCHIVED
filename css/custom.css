@@ -20,6 +20,38 @@
     z-index:1;
 }
 
+.navbar ul {
+  list-style-type: none;
+  font-family:Courier New; 
+  font-size: 1.5em;
+  margin: 0;
+  padding:0;
+  overflow: hidden;
+  background-color: rgb(140, 166, 217);
+  color: rgb(249,249,249);
+  text-align: center;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+}
+
+.navbar li {
+  float: left;
+}
+
+.navbar li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.navbar li a:hover {
+  background-color: rgb(249,249,249);
+  color: rgb(140, 166, 217);
+}
+
 .links {
     list-style-type: none;
     text-align: center;
