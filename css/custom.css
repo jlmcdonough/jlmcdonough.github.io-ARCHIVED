@@ -112,11 +112,11 @@
 /* about */
 #about {
     text-align: center;
-    margin-left:15%;
-    margin-right:15%;
     color:midnightblue;
     font-family:Courier New; 
     background:rgb(249,249,249);
+    margin: 0 auto;
+	width: 54%;
 }
 
 #about a {
