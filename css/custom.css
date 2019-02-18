@@ -1,112 +1,125 @@
 /* header */ 
 .header{
-    height:100%
-    background-color:rgb(140, 166, 217);
+	height:100%
+	background-color:rgb(140, 166, 217);
 }
 
 .header h1{
-    color:White;
-    font-family:Courier New; 
-    text-align:center;
-    position:relative;
-    padding-top:5px;
-    z-index:1;
+	color:White;
+	font-family:Courier New; 
+	text-align:center;
+	position:relative;
+	padding-top:5px;
+	z-index:1;
 }
 
 .header h4{
-    color:White;
-    font-family:Courier New; 
-    text-align:center;
-    position:relative;
-    z-index:1;
+	color:White;
+	font-family:Courier New; 
+	text-align:center;
+	position:relative;
+	z-index:1;
 }
 
 /* nav bar*/
+nav {
+	position: relative;
+	width:100%;
+}
+
 .navbar ul {
-  list-style-type: none;
-  font-family:Courier New; 
-  font-size: 1em;
-  margin: 0;
-  padding:0;
-  overflow: hidden;
-  background-color: rgb(140, 166, 217);
-  color: rgb(249,249,249);
-  text-align: center;
-  position: fixed;
-  top: 0;
+	list-style-type: none;
+	font-family:Courier New; 
+	font-size: 1em;
+	margin: 0;
+	padding:0;
+	display-inline:block;
+	overflow: hidden;
+	background-color: rgb(140, 166, 217);
+	color: rgb(249,249,249);
+	text-align: center;
+	position: fixed;
+	top: 0;
 }
 
 .navbar li {
-  float:left;
+	float:left;
 }
 
 .navbar li a {
-  display: inline-block;
-  float: center;
-  color: white;
-  text-align: center;
-  padding: 3px 7px;
-  text-decoration: none;
+	display: inline-block;
+	float: center;
+ 	color: white;
+	text-align: center;
+	padding: 3px 7px;
+	text-decoration: none;
 }
 
 .navbar li a:hover {
-  background-color: rgb(249,249,249);
-  color: rgb(140, 166, 217);
+	background-color: rgb(249,249,249);
+	color: rgb(140, 166, 217);
+}
+
+nav ul li p {
+	height: 1rem;
+	line-height: 1rem;
+	margin: 0;
+	padding: 1rem 1rem; 
 }
  
 /* icons */
 .links {
-    list-style-type: none;
-    text-align: center;
-    margin: 0;
-    padding: 0;
-    style = "color: White"
-    z-index:1;
-    font-size:20px
+	list-style-type: none;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	style = "color: White"
+	z-index:1;
+	font-size:20px
 }
 
 .links li {
-    display: inline-block;
-    font-size: 30px;
-    padding: 10px 20px;
-    style = "color: White"
+	display: inline-block;
+	font-size: 30px;
+	padding: 10px 20px;
+	style = "color: White"
 }
 
 .grow {
-    display: inline-block;
-    vertical-align: middle;
-    transform: translateZ(0);
-    backface-visibility: hidden;
-    -moz-osx-font-smoothing: grayscale;
-    transition-duration: 0.1s;
-    transition-property: transform;
+	display: inline-block;
+	vertical-align: middle;
+	transform: translateZ(0);
+	backface-visibility: hidden;
+	-moz-osx-font-smoothing: grayscale;
+	transition-duration: 0.1s;
+	transition-property: transform;
 }
 
 .grow:hover,
 .grow:focus,
 .grow:active {
-    transform: scale(1.5);
+	transform: scale(1.5);
 }
 
 /*rounded intro picture*/
 .rounded {
-    position: absolute;
-    top: 30%;
-    left: 50%;
-    background-image: url(/images/jm.jpg);
-    background-repeat: no-repeat;
-    background-position: 50%;
-    background-size: contain;
-    border-radius: 15%;
-    width: 200px;
-    height: 200px;
-    transform: translate(-50%, -50%);
+	position: absolute;
+	top: 30%;
+	left: 50%;
+	background-image: url(/images/jm.jpg);
+	background-repeat: no-repeat;
+	background-position: 50%;
+	background-size: contain;
+	border-radius: 15%;
+	width: 200px;
+	height: 200px;
+	transform: translate(-50%, -50%);
 }
 .center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  border-radius: 20%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 20%;
 }
 
 /* about */
@@ -120,7 +133,7 @@
 }
 
 #about a {
-    background:rgb(249,249,249);
+	background:rgb(249,249,249);
 }
 
 
