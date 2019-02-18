@@ -111,11 +111,11 @@
 
 /* about */
 #about {
-    text-align: center;
-    color:midnightblue;
-    font-family:Courier New; 
-    background:rgb(249,249,249);
-    margin: 0 auto;
+	text-align: center;
+	color:black;
+	font-family:Courier New; 
+	background:rgb(249,249,249);
+   	margin: 0 auto;
 	width: 54%;
 }
 
