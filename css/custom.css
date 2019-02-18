@@ -1,3 +1,4 @@
+/* header */ 
 .header{
     height:100%
     background-color:rgb(140, 166, 217);
@@ -20,6 +21,7 @@
     z-index:1;
 }
 
+/* nav bar*/
 .navbar ul {
   list-style-type: none;
   font-family:Courier New; 
@@ -50,7 +52,8 @@
   background-color: rgb(249,249,249);
   color: rgb(140, 166, 217);
 }
-
+ 
+/* icons */
 .links {
     list-style-type: none;
     text-align: center;
@@ -68,28 +71,6 @@
     style = "color: White"
 }
 
-.rounded {
-    position: absolute;
-    top: 30%;
-    left: 50%;
-    background-image: url(/images/jm.jpg);
-    background-repeat: no-repeat;
-    background-position: 50%;
-    background-size: contain;
-    border-radius: 15%;
-    width: 200px;
-    height: 200px;
-    transform: translate(-50%, -50%);
-}
-
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  border-radius: 20%;
-}
-
-
 .grow {
     display: inline-block;
     vertical-align: middle;
@@ -105,3 +86,29 @@
 .grow:active {
     transform: scale(1.5);
 }
+
+/*rounded intro picture*/
+.rounded {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    background-image: url(/images/jm.jpg);
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: contain;
+    border-radius: 15%;
+    width: 200px;
+    height: 200px;
+    transform: translate(-50%, -50%);
+}
+
+/* about */
+#about {
+    text-align: center;
+}
+
+#about a{
+    color:rgb(2,25,48);
+}
+
+
