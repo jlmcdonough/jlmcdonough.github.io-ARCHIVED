@@ -133,9 +133,8 @@ nav ul li p {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	border-radius: 25%;
-	top: 30%;
-	left: 50%;
+	border-radius: 20%;
+	top: 100px;
 }
 
 /* about */
