@@ -35,14 +35,14 @@
 }
 
 .navbar li {
-  float: left;
+  float: right;
 }
 
 .navbar li a {
   display: block;
   color: white;
-  text-align: right;
-  padding: 5px 5px;
+  text-align: center;
+  padding: 0px 0px;
   text-decoration: none;
 }
 
