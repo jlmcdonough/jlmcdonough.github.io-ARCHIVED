@@ -111,12 +111,13 @@
 /* about */
 #about {
     text-align: center;
-    background-color:rgb(249,249,249);
+    background:rgb(249,249,249);
 }
 
 #about a{
-    color:rgb(25,25,112);
-    background-color:rgb(249,249,249);
+    color:midnightblue;
+    font-family:Courier New; 
+    background:rgb(249,249,249);
 }
 
 
