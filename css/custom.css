@@ -37,7 +37,7 @@
 }
 
 .navbar li {
-  float: left;
+  display: inline-lock;
 }
 
 .navbar li a {
