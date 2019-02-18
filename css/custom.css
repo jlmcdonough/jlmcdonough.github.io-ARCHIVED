@@ -37,11 +37,12 @@
 }
 
 .navbar li {
-  float: right;
+  float: center;
 }
 
 .navbar li a {
   display: block;
+  float: center;
   color: white;
   text-align: center;
   padding: 3px 7px;
