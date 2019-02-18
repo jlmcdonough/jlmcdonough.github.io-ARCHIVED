@@ -30,8 +30,7 @@
   background-color: rgb(140, 166, 217);
   color: rgb(249,249,249);
   text-align: center;
-  position: -webkit-sticky; /* Safari */
-  position: sticky;
+  position: fixed;
   top: 0;
 }
 
