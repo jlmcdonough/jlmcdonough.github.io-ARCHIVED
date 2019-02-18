@@ -37,7 +37,7 @@
 }
 
 .navbar li {
-  float: left;
+  float: right;
 }
 
 .navbar li a {
@@ -105,10 +105,12 @@
 /* about */
 #about {
     text-align: center;
+    background-color:rgb(249,249,249);
 }
 
 #about a{
-    color:rgb(2,25,48);
+    color:rgb(25,25,112);
+    background-color:rgb(249,249,249);
 }
 
 
