@@ -12,21 +12,12 @@
     z-index:1;
 }
 
-.header h4{
+.header h2{
     color:White;
     font-family:Courier New; 
     text-align:center;
     position:relative;
     z-index:1;
-}
-
-.header h6{
-    color:White;
-    font-family:Courier New; 
-    text-align:center;
-    position:relative;
-    z-index:1;
-    font-size:60%;
 }
 
 .links {
