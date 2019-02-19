@@ -259,7 +259,8 @@ nav ul li p {
 /* Footer */
 .footer{
 	background-color:rgb(249,249,249);
-	font-size: 20px;
+	font-size: 10px;
 	font-family:Courier New;
 	color: midnightblue;
+	text-align:right;
 }
