@@ -84,6 +84,7 @@ nav ul li p {
 /* icons */
 .links {
 	list-style-type: none;
+	position: relative;
 	text-align: center;
 	margin: 0;
 	padding: 0;
@@ -95,7 +96,7 @@ nav ul li p {
 .links li {
 	display: inline-block;
 	font-size: 30px;
-	padding: 10px 0px;
+	padding: 10px 20px;
 	style = "color: White"
 }
 
