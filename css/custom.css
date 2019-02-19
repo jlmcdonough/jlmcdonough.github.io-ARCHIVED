@@ -95,7 +95,7 @@ nav ul li p {
 .links li {
 	display: inline-block;
 	font-size: 30px;
-	padding: 10px 200px;
+	padding: 10px 0px;
 	style = "color: White"
 }
 
