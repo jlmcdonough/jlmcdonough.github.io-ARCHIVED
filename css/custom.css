@@ -141,6 +141,7 @@ nav ul li p {
 	text-align: center;
 	color:black;
 	font-family:Courier New; 
+	font-weight:bold;
 	background:rgb(249,249,249);
    	margin: 0 auto;
 	padding-top: 50px;
@@ -156,6 +157,7 @@ nav ul li p {
 	text-align: center;
 	color:white;
 	font-family:Courier New; 
+	font-weight:bold;
 	background:rgb(140, 166, 217);
    	margin: 0 auto;
 	padding-top: 50px;
@@ -170,7 +172,8 @@ nav ul li p {
 #classes {
 	text-align: center;
 	color:black;
-	font-family:Courier New; 
+	font-family:Courier New;
+	font-weight:bold;
 	background:rgb(249,249,249);
    	margin: 0 auto;
 	padding-top: 50px;
@@ -186,6 +189,7 @@ nav ul li p {
 	text-align: center;
 	color:white;
 	font-family:Courier New; 
+	font-weight:bold;
 	background:rgb(140, 166, 217);
    	margin: 0 auto;
 	padding-top: 50px;
