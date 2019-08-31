@@ -222,7 +222,8 @@ table {
 
 table.a {
   table-layout: fixed;
-  width: 95%
+  width: 95%;
+  padding-bottom: 25px;
 }
 
 .flip {
