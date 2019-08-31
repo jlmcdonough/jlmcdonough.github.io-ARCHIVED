@@ -215,6 +215,16 @@ nav ul li p {
   display: table;
 }
 
+table {
+  border-collapse: collapse;
+
+} 
+
+table.a {
+  table-layout: fixed;
+  width: 95%
+}
+
 .flip {
 	background-color: transparent;
 	display: block;
