@@ -50,7 +50,7 @@ nav ul li {
 	display-inline:block;
 	overflow: hidden;
 	background-color: rgb(140, 166, 217);
-	color: rgb(249,249,249);
+	color: rgb(220,220,220);
 	text-align: center;
 	position: fixed;
 	top: 0;
@@ -70,7 +70,7 @@ nav ul li {
 }
 
 .navbar li a:hover {
-	background-color: rgb(249,249,249);
+	background-color: rgb(220,220,220);
 	color: rgb(140, 166, 217);
 }
 
@@ -144,14 +144,14 @@ nav ul li p {
 	color:black;
 	font-family:Courier New; 
 	font-weight:bold;
-	background:rgb(249,249,249);
+	background:rgb(220,220,220);
    	margin: 0 auto;
 	padding-top: 50px;
 	padding-bottom: 50px;
 }
 
 #about a {
-	background:rgb(249,249,249);
+	background:rgb(220,220,220);
 }
 
 /* projects */
@@ -176,14 +176,14 @@ nav ul li p {
 	color:black;
 	font-family:Courier New;
 	font-weight:bold;
-	background:rgb(249,249,249);
+	background:rgb(220,220,220);
    	margin: 0 auto;
 	padding-top: 50px;
 	padding-bottom: 50px;
 }
 
 #classes a {
-	background:rgb(249,249,249);
+	background:rgb(220,220,220);
 }
 
 /* classes */
@@ -276,7 +276,7 @@ table.a {
 /* Footer */
 .footer{
 	height:100%
-	background-color:rgb(249,249,249);
+	background-color:rgb(220,220,220);
 }
 
 .footer p{
