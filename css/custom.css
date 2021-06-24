@@ -170,8 +170,8 @@ nav ul li p {
 	background:rgb(140, 166, 217);
 }
 
-/* classes */
-#classes {
+/* work */
+#work {
 	text-align: center;
 	color:black;
 	font-family:Courier New;
@@ -186,8 +186,8 @@ nav ul li p {
 	background:rgb(249,249,249);
 }
 
-/* work */
-#work {
+/* classes */
+#classes {
 	text-align: center;
 	color:white;
 	font-family:Courier New; 
@@ -198,7 +198,7 @@ nav ul li p {
 	padding-bottom: 50px;
 }
 
-#work a {
+#classes a {
 	background:rgb(140, 166, 217);
 }
 
